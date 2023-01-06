@@ -11,7 +11,7 @@
           <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
-          <a href="/code">Code</a>
+          <a href="/code">code</a>
           <a href="pages/study_ing.html">ing</a>
           <a href="pages/book_complete.html">Book_Complete</a>
         </div>
