@@ -29,7 +29,7 @@
       </li>
       <li>
         <a class="white" 
-             href="pages/exercise.html">
+             href="/exercise">
              Exercise
         </a>
       </li>
