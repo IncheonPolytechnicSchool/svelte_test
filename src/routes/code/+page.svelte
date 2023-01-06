@@ -98,12 +98,16 @@ body {
       <tbody>
         <tr>
           <td>
-            <i class="fab fa-js"></i> 
+            <span style="font-size: 2em; color: Dodgerblue;">
+              <i class="fab fa-js"></i> 
+            </span>
             <br>
             JavaScript
           </td>
           <td>
-            <i class="fa-brands fa-square-js"></i>
+            <span style="font-size: 2em; color: Dodgerblue;">
+              <i class="fa-brands fa-square-js"></i>
+            </span>
             <br>
             JavaScript
           </td>
@@ -114,12 +118,16 @@ body {
         </tr>
         <tr>
           <td>
-            <i class="fab fa-js"></i> 
+            <span style="font-size: 2em; color: Dodgerblue;">
+              <i class="fab fa-js"></i> 
+            </span>
             <br>
             JavaScript
           </td>
           <td>
-            <i class="fa-brands fa-react"></i>
+            <span style="font-size: 2em; color: Dodgerblue;">
+              <i class="fa-brands fa-react"></i>
+            </span>
             <br>
             React
           <br>
@@ -130,7 +138,11 @@ body {
         </td>          
       </tr>
     <tr>
-     <td rowspan="2">
+     <td>
+      <span style="font-size: 2em; color: Dodgerblue;">
+        <i class="fa-brands fa-python"></i>
+      </span>
+      <br>
       Python
       <br>
      </td>
@@ -145,6 +157,9 @@ body {
   </tr>
 <tr>
  <td>
+  <td>
+    <!-- svelte-ignore a11y-missing-attribute -->
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/2880px-Flask_logo.svg.png" width="100%" />
   Flask
   <br>
  </td>
@@ -159,7 +174,7 @@ body {
     <br>
    </td>
   <td>
-   TebnsorFlow
+   TensorFlow
    <br>
   </td>
   <td>
@@ -172,8 +187,11 @@ body {
 </tr>
   <tr>
     <td>
+      <span style="font-size: 2em; color: Dodgerblue;">
+        <i class="fa-brands fa-html5"></i>
+      </span>
+      <br>
      HTML
-     <br>
     </td>
     <td></td>
     <td></td>
