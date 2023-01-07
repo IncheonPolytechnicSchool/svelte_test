@@ -46,6 +46,17 @@
       </li>
       <li>
         <div class="dropdown">
+          <button class="dropbtn">letter
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="">English</a>
+          <a href="/letter_korean">Korean</a>
+        </div>
+      </div>
+      </li>
+      <li>
+        <div class="dropdown">
           <button class="dropbtn">0
           <i class="fa fa-caret-down"></i>
         </button>

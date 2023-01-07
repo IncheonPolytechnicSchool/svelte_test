@@ -91,6 +91,7 @@ body {
                 <th>C</th>
                 <th>C</th> 
                 <th>C</th>
+                <th>C</th>
                 <th>N</th>
             </tr>
         </thead>
@@ -111,13 +112,14 @@ body {
                     NFL
                 </td>
                 <td>
-                    Touch Down
-                    <br>
                      <!-- svelte-ignore a11y-missing-attribute -->
                      <img class="special-image"
                           src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Touchdown_--_Texas_High_School_vs_Highland_Park_High_School_first-round_playoffs.jpg/1920px-Touchdown_--_Texas_High_School_vs_Highland_Park_High_School_first-round_playoffs.jpg" 
                           width="100%">
+                     <br>
+                     Touch Down
                 </td>
+                <td></td>
                 <td>5</td>
             </tr>
             <tr>
@@ -127,20 +129,118 @@ body {
                     </span>
                     <br>
                     E-Sports
-              </td>
-              <td>
-                <!-- svelte-ignore a11y-missing-attribute -->
-                <img class="special-image" 
+               </td>
+               <td>
+               <!-- svelte-ignore a11y-missing-attribute -->
+               <img class="special-image" 
                      src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Faker_at_the_2015.10.02_S5_Paris_day2.jpeg" 
                      width="50%">
-                <br>
-                Faker
+               <br>
+               Faker
               </td>
               <td>
                 VS Chovy
               </td>
+              <td></td>
               <td>4</td>
             </tr>
+            <tr>
+                <td>
+                    <span style="font-size: 2em; color: Dodgerblue;">
+                        <i class="fas fa-car"></i>
+                    </span>
+                    <br>
+                    Motorsports
+                </td>
+                <td>
+                    <!-- svelte-ignore a11y-missing-attribute -->
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2880px-F1.svg.png" 
+                         width="100%">
+                    <br>
+                    F1
+                </td>
+                <td>
+                    <!-- svelte-ignore a11y-missing-attribute -->
+                    <img class="special-image" 
+                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2011_Italian_GP_-_Vettel.jpg/2880px-2011_Italian_GP_-_Vettel.jpg" 
+                         width="100%">
+                    <br>
+                    Red Bull
+                </td>
+                <td>
+                    <!-- svelte-ignore a11y-missing-attribute -->
+                    <img class="special-image"
+                         src="https://upload.wikimedia.org/wikipedia/commons/7/75/Max_Verstappen_2017_Malaysia_3.jpg" 
+                         width="100%">
+                    <br>
+                    Max Verstappen
+                </td>
+                <td>6</td>
+              </tr>
+              <tr>
+                <td>
+                    <span style="font-size: 2em; color: Dodgerblue;">
+                        <i class="fa-solid fa-baseball-bat-ball"></i>
+                    </span>
+                    <br>
+                    Baseball
+                </td>
+                <td>
+                    <!-- svelte-ignore a11y-missing-attribute -->
+                    <img class="special-image" 
+                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ohtani_2018.jpg/1280px-Ohtani_2018.jpg" 
+                         width="100%">
+                    <br>
+                    Shohei Ohtani
+                </td>
+                <td>
+                    <span style="font-size: 2em; color: Dodgerblue;">
+                        <i class="fa-solid fa-baseball"></i>
+                    </span>
+                    <br>
+                    pitcher
+                </td>
+                <td></td>
+                <td>35</td>
+              </tr>
+              <tr>
+                <td>
+                    <span style="font-size: 2em; color: Dodgerblue;">
+                        <i class="fa-solid fa-futbol"></i>
+                    </span>
+                    <br>
+                    Association football
+                </td>
+                <td>
+                    金玟哉
+                    <br>
+                    <!-- svelte-ignore a11y-missing-attribute -->
+                    <img class="special-image" 
+                         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%ED%86%A0%ED%8A%B8%EB%84%98-%EC%9C%A0%EB%B2%A4%ED%88%AC%EC%8A%A4_%EC%9D%B4%EC%A0%81%EC%84%A4%EC%97%90_%EC%A7%81%EC%A0%91_%EB%8B%B5%ED%95%9C_%EA%B9%80%EB%AF%BC%EC%9E%AC_1m_42s.jpg/440px-%ED%86%A0%ED%8A%B8%EB%84%98-%EC%9C%A0%EB%B2%A4%ED%88%AC%EC%8A%A4_%EC%9D%B4%EC%A0%81%EC%84%A4%EC%97%90_%EC%A7%81%EC%A0%91_%EB%8B%B5%ED%95%9C_%EA%B9%80%EB%AF%BC%EC%9E%AC_1m_42s.jpg" 
+                         width="50%">
+                  </td>
+                <td>
+                  UEFA
+                  <br>
+                  Europa League
+                  <br>
+                  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1024px-UEFA_Europa_League_%28football_competition%29_logo.svg.png" width="30%">
+                </td>
+                  <td>
+                  </td>
+                  <td>17</td> 
+              </tr>
+              <tr>
+                <td>
+                  hitter
+                <br>
+                <img class="special-image"
+                     src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ohtani_batting_2019.08.04%283%29.jpg/800px-Ohtani_batting_2019.08.04%283%29.jpg" 
+                     width="50%">
+                </td>
+                <td></td>
+                <td>19</td>
+              </tr>
     <tr>
     <td>
       Interception
@@ -151,30 +251,6 @@ body {
     </td>
     <td></td>
     <td>4</td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-      F1
-      <br>
-      <img class="special-image" 
-           src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2880px-F1.svg.png" 
-           width="50%">
-    </td>
-    <td rowspan="2">
-      Red Bull
-      <br>
-      <img class="special-image" 
-           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2011_Italian_GP_-_Vettel.jpg/2880px-2011_Italian_GP_-_Vettel.jpg" 
-           width="70%">
-    </td>
-    <td>
-      Max Verstappen
-      <br>
-      <img class="special-image" 
-           src="https://upload.wikimedia.org/wikipedia/commons/7/75/Max_Verstappen_2017_Malaysia_3.jpg" 
-           width="50%">
-    </td>
-    <td>6</td>
   </tr>
   <tr>
     <td>
@@ -260,35 +336,6 @@ body {
   <tr>
     <td>Fighter</td>
     <td>0</td>
-  </tr>
-  <tr>
-    <td rowspan="2">
-    Shohei Ohtani
-    <br>
-    <img class="special-image" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Shohei_Ohtani_%2848343515351%29_%28cropped%29.jpg/800px-Shohei_Ohtani_%2848343515351%29_%28cropped%29.jpg" 
-         width="50%">
-    </td>
-    <td>
-    pitcher
-    <br>
-    <img class="special-image" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ohtani_2018.jpg/1280px-Ohtani_2018.jpg" 
-         width="50%">
-    </td>
-    <td></td>
-    <td>35</td>
-  </tr>
-  <tr>
-    <td>
-      hitter
-    <br>
-    <img class="special-image"
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ohtani_batting_2019.08.04%283%29.jpg/800px-Ohtani_batting_2019.08.04%283%29.jpg" 
-         width="50%">
-    </td>
-    <td></td>
-    <td>19</td>
   </tr>
   <tr>
     <td rowspan="2">
@@ -436,23 +483,6 @@ body {
       <td></td>
       <td></td>
       <td>24</td>
-    </tr>
-    <tr>
-      <td>
-        UEFA
-        <br>
-        Europa League
-        <br>
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1024px-UEFA_Europa_League_%28football_competition%29_logo.svg.png" width="30%">
-      </td>
-        <td>
-          金玟哉
-          <br>
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%ED%86%A0%ED%8A%B8%EB%84%98-%EC%9C%A0%EB%B2%A4%ED%88%AC%EC%8A%A4_%EC%9D%B4%EC%A0%81%EC%84%A4%EC%97%90_%EC%A7%81%EC%A0%91_%EB%8B%B5%ED%95%9C_%EA%B9%80%EB%AF%BC%EC%9E%AC_1m_42s.jpg/440px-%ED%86%A0%ED%8A%B8%EB%84%98-%EC%9C%A0%EB%B2%A4%ED%88%AC%EC%8A%A4_%EC%9D%B4%EC%A0%81%EC%84%A4%EC%97%90_%EC%A7%81%EC%A0%91_%EB%8B%B5%ED%95%9C_%EA%B9%80%EB%AF%BC%EC%9E%AC_1m_42s.jpg" width="50%">
-        </td>
-        <td>
-        </td>
-        <td>17</td> 
     </tr>
       <tr>
     <tr>
