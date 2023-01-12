@@ -64,6 +64,7 @@
     <table>
       <thead>
         <tr>
+          <th>Genre</th>
           <th>C</th>
           <th>T</th>
         </tr>
@@ -71,19 +72,44 @@
       <tbody>
         <tr>
             <td>
+                <span style="font-size: 2em; color: Dodgerblue;">
+                    <i class="fa-solid fa-school-flag"></i>
+                </span>
+                <br>
+                #School
+            </td>
+            <td>
+                <span style="font-size: 2em; color: Dodgerblue;">
+                    <i class="fa-solid fa-chalkboard-user"></i>
+                </span>
+                <br>
+                #Teacher
+            </td>
+            <td>
                 <!-- svelte-ignore a11y-missing-attribute -->
                 <img class="special-image"
                      src = "https://upload.wikimedia.org/wikipedia/en/7/79/The_Glory_TV_series.jpg" 
                      width="100%">
-                     <br>
-                     The Glory
-                     <br>
-                     (Episode: 03)
+                <br>
+                The Glory: Part1
             </td>
+        </tr>
+        <tr>
             <td>
-                그때요. 우리 처음 公園에서 바둑 課外 할 때요. 그때가 내 人生에서 가장 시렸던 季節이었거든요?
-                동은後輩랑 했던 그 課外가... 그때 내 唯一한 日常이자 約束이였어요. 
-                아마 내가 따뜻해 보였다면, 그건 동은後輩 덕분이에요.
+                <span style="font-size: 2em; color: Dodgerblue;">
+                    <i class="fa-solid fa-school-flag"></i>
+                </span>
+                <br>
+                #School
+            </td>
+            <td></td>
+            <td>
+                <!-- svelte-ignore a11y-missing-attribute -->
+                <img class="special-image" 
+                     src="https://upload.wikimedia.org/wikipedia/en/9/9a/Extracurricular_2020.jpg"
+                     width="100%">
+                <br>
+                Extracurricular
             </td>
         </tr>
     </tbody>

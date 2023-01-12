@@ -22,8 +22,7 @@
         </button>
         <div class="dropdown-content">
           <a href="/code">code</a>
-          <a href="pages/study_ing.html">ing</a>
-          <a href="pages/book_complete.html">Book_Complete</a>
+          <a href="/news">news</a>
         </div>
       </div>
       </li>
@@ -39,6 +38,7 @@
           <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
+          <a href="film_genre">Genre</a>
           <a href="pages/film_history.html">History</a>
           <a href="pages/film_history_1945.html">1945</a>
         </div>
@@ -50,6 +50,7 @@
           <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
+          <!-- svelte-ignore a11y-invalid-attribute -->
           <a href="">English</a>
           <a href="/letter_korean">Korean</a>
         </div>
