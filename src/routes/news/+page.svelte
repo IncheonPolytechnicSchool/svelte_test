@@ -139,11 +139,12 @@
                 </td>
             </tr>
             <tr>
-                <td>CNN
-                  <br>
+                <td>
                   <!-- svelte-ignore a11y-missing-attribute -->
                   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/350px-CNN.svg.png" 
-                       width="30%">
+                       width="100%">
+                  <br>
+                  CNN
                 </td>
                 <td>
                   <a href="https://edition.cnn.com/2018/01/08/entertainment/natalie-portman-all-male-director/index.html">
@@ -159,6 +160,27 @@
                         Feminism
                       </td>
                 </tr>
+                <tr>
+                    <td>
+                      <!-- svelte-ignore a11y-missing-attribute -->
+                      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Aljazeera.svg/800px-Aljazeera.svg.png" 
+                           width="100%">
+                       <br>
+                       Al Jajeera
+                    </td>
+                    <td>
+                      <a href="https://www.aljazeera.com/news/2018/9/21/shin-ji-ye-and-her-aim-to-challenge-sexism-in-korean-politics">
+                        Shin Ji-ye and her aim to challenge sexism in Korean politics
+                      </a>
+                    </td>
+                        <td>
+                            <!-- svelte-ignore a11y-missing-attribute -->
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Feminism_symbol.svg/2048px-Feminism_symbol.svg.png" 
+                                 width="100%">
+                            <br>
+                            Feminism
+                          </td>
+                    </tr>
           </tbody>
 </table>
 
