@@ -83,7 +83,12 @@
               Natalie Portman calls out 'all male nominees' for best director
               </a>
             </td>
-            <td></td>
+                <td>feminism
+                    <br>
+                    <!-- svelte-ignore a11y-missing-attribute -->
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Feminism_symbol.svg/2048px-Feminism_symbol.svg.png" 
+                         width="100%">
+                  </td>
             </tr>
             <tr>
                 <td>The Guarian
