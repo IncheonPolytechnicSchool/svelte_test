@@ -72,19 +72,36 @@
         </thead>
         <tbody id = "myTable"> 
         <tr>
-                <td>
-                  <!-- svelte-ignore a11y-missing-attribute -->
-                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Guardian_2018.svg/2880px-The_Guardian_2018.svg.png" 
-                       width="100%">
-                  <br>
-                  The Guardian
-                </td>
-                <td>
-                  <a href="https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi">
+            <td>
+                Geopolitical Monitor
+            </td>
+            <td>
+                <a href="https://www.geopoliticalmonitor.com/big-brother-arrives-on-south-koreas-internet">
+                    <br>
+                    Big Brother Arrives on South Korea’s Internet
+                </a>
+            </td>
+            <td>
+                <span class="fa-stack fa-4x">
+                    <i class="fa-solid fa-square fa-stack-2x"></i>
+                    <i class="fa-solid fa-code fa-stack-1x fa-inverse"></i>
+                  </span>
+            </td>
+            </tr>
+            <tr>
+            <td>
+                <!-- svelte-ignore a11y-missing-attribute -->
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Guardian_2018.svg/2880px-The_Guardian_2018.svg.png" 
+                     width="100%">
+                     <br>
+                     The Guardian
+            </td>
+            <td>
+                <a href="https://www.theguardian.com/world/2018/aug/07/china-bans-winnie-the-pooh-film-to-stop-comparisons-to-president-xi">
                     <br>
                     China bans Winnie the Pooh film after comparisons to President Xi
-                  </a>
-                </td>
+                </a>
+            </td>
             <td>
                 <span style="font-size: 2em; color: Dodgerblue;">
                     <i class="fa-solid fa-microphone-lines-slash"></i>
@@ -92,7 +109,6 @@
                 <br>
                 censorship
             </td>
-               
             </tr>
             <tr>
               <td>
