@@ -147,8 +147,11 @@ body {
       <br>
      </td>
      <td>
-      Python
+      <span style="font-size: 2em; color: Dodgerblue;">
+        <i class="fa-brands fa-python"></i>
+      </span>
       <br>
+      Python
      </td>
      <td></td>
     <td>

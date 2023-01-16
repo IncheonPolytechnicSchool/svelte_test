@@ -62,7 +62,7 @@
           <i class="fa fa-caret-down"></i>
         </button>
         <div class="dropdown-content">
-          <a href="pages/0_booking.html">booking</a>
+          <a href="/reservation">reservation</a>
           <a href="pages/0_goods.html">booking</a>
           <a href="pages/0_tiamo.htmm">tiamo</a>
         </div>
