@@ -5,7 +5,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap" rel="stylesheet">
-    <script src="js/includeHTML.js"></script>
     <style>
     table {
         font-family: arial, sans-serif;
@@ -71,7 +70,7 @@
           <th onclick="sortTable(3)">T<br><i class="fa fa-sort"></i></th>
           <th onclick="sortTable(4)">F<br><i class="fa fa-sort"></i></th>
           <th onclick="sortTable(5)">C1<br><i class="fa fa-sort"></i></th>
-          <th onclick="sortTable(5)">C2<br><i class="fa fa-sort"></i></th>
+          <th onclick="sortTable(6)">C2<br><i class="fa fa-sort"></i></th>
         </tr>
         </thead>
         <tbody id = "myTable"> 
